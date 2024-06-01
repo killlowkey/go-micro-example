@@ -1,3 +1,7 @@
+## 参考文档
+1. https://github.com/go-micro/generator
+2. https://github.com/go-micro/examples/tree/main/greeter
+
 ## 安装工具库
 ```shell
 go install google.golang.org/protobuf/cmd/protoc-gen-go@latest
